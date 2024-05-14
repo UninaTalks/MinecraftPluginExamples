@@ -1,0 +1,4 @@
+message:
+  colored: true
+  content: "Questo messaggio è contenuto nel config.yml"
+sound-type: ENTITY_PLAYER_LEVELUP

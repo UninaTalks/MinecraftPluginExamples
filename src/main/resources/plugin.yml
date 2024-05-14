@@ -1,0 +1,9 @@
+name: ${project.name}
+description: ${project.description}
+version: ${project.version}
+author: Lorenzo Angelino
+main: org.unina.minecraft.MinecraftExamplePlugin
+api-version: 1.20
+commands:
+  esempio:
+    description: "Comando di esempio"
